@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+}
+
+.container {
+    height: 100vh;
+}
+
+.card:hover{
+    cursor: pointer;
+    transform: scale(1.033);
+    transition: 0.7s;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
